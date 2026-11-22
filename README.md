@@ -34,5 +34,7 @@ Exploration d'une base de données commerciale, contrôle de la qualité des don
 Mettre mes compétences en analyse de données au service des entreprises et contribuer à leurs prises de décision grâce aux données.
 
 ## Contact
-
-- GitHub : [fatouDataAnalyst](https://github.com/fatouDataAnalyst)
+- **Email :** niangfab970@gmail.com
+- **LinkedIn :** [Fatou Niang](https://www.linkedin.com/in/fatou-niang-8b70b2283/)
+- **GitHub :** [fatouDataAnalyst](https://github.com/fatouDataAnalyst)
+- **Localisation :** Sénégal
